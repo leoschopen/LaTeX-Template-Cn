@@ -1,9 +1,3 @@
-**注意！！**
-
-此仓库已停止更新，推荐读者访问：[LaTeX 开源小屋 ](http://www.latexstudio.net/) 获取更多、更现代(xeLaTeX)、支持度更好的 \LaTeX 模板。
-
---------
-
 LaTeX-Template-Cn
 =================
 
