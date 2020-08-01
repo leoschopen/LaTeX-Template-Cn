@@ -3,8 +3,6 @@ LaTeX-Template-Cn
 
 收集互联网上各种实用 \LaTeX 中文模版，并适配至 CTeX 套件 2.9.2.164 版本。
 
-主要来源：[LaTeX 编辑部 ](http://zzg34b.w3.c361.com/templet/graduateThesis.htm)
-
 ## 关于LaTeX环境
 
 CTeX 项目主页：[CTEX: 项目](http://www.ctex.org/HomePage)
